@@ -1,2 +1,33 @@
-import+sys+import+os+import+time+import+socket+import+random+%23Code+Time+from+datetime+import+datetime+now+%3D+datetime.now%28%29+hour+%3D+now.hour+minute+%3D+now.minute+day+%3D+now.day+month+%3D+now.month+year+%3D+now.year+++os.system%28%22clear%22%29+os.system%28%22figlet+RONALDO+SEPTI%22%29+print+print+%22Author+++%3A+Ronaldo+Ganteng%22+print+%22You+Tube+%3A+DeGong+Ji%22+print+%22github+++%3A+https%3A%2F%2Fgithub.com%2FTsukasaCh%22+print+%22Facebook+%3A+https%3A%2F%2Fwww.facebook.com%2FRonaldo%22+print+pacar+%3D+raw_input%28%22pacar+%3A+%22%29+jumlah+%3D+input%28%22jumlah++++++++%3A+%22%29++os.system%28%22clear%22%29+os.system%28%22figlet+mengetest%22%29+print+%22%5B++++++++++++++++++++%5D+0%25+%22+time.sleep%282%29+print+%22%5B%3D%3D%3D%3D%3D+++++++++++++++%5D+25%25%22+time.sleep%282%29+print+%22%5B%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3E++++++++++%5D+50%25%22+time.sleep%282%29+print+%22%5B%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3E+++++%5D+75%25%22+time.sleep%282%29+print+%22%5B%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3E%5D+100%25%22+time.sleep%283%29++print+%22kamu+berhasil+mendapatkan+dia%21%21%22
+os.system("clear")
+os.system("figlet RONALDO SEPTI")
+print
+print "Author   : Ronaldo Ganteng"
+print "You Tube : DeGong Ji"
+print "github   : https://github.com/TsukasaCh"
+print "Facebook : https://www.facebook.com/Ronaldo"
+print
+pacar = raw_input("akun : ")
+jenis = input("jenis        : ")
 
+os.system("clear")
+os.system("figlet mengetest")
+print "0%"
+time.sleep(1)
+print "25%"
+time.sleep(1)
+print "50%"
+time.sleep(1)
+print "55%"
+time.sleep(1)
+print "56%"
+time.sleep(1)
+print "64%"
+time.sleep(1)
+print "70%"
+time.sleep(1)
+print "75%"
+time.sleep(1)
+print "100%"
+time.sleep(2)
+
+print "Selamat hack akun berhasil silahkan login"

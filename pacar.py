@@ -12,7 +12,7 @@ day = now.day
 month = now.month
 year = now.year
 
-<-------!------->
+
 os.system("clear")
 os.system("figlet RONALDO SEPTI")
 print

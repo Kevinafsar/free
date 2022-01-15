@@ -36,3 +36,5 @@ print "[===============>     ] 75%"
 time.sleep(2)
 print "[===================>] 100%"
 time.sleep(3)
+
+print "kamu berhasil mendapatkan dia!!"

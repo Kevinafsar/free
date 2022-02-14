@@ -13,7 +13,7 @@ month = now.month
 year = now.year
 
 os.system("clear")
-os.system("figlet RONALDO SEPTI")
+os.system("figlet RONALDO GANTENG")
 print
 print "Author   : Ronaldo Ganteng"
 print "You Tube : DeGong Ji"

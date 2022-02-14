@@ -43,7 +43,5 @@ print "75%"
 time.sleep(1)
 print "100%"
 time.sleep(2)
-echo
 print "sandi nya tumanggor78"
-echo
 print "Selamat hack akun berhasil silahkan login"
